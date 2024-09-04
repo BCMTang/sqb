@@ -1,5 +1,7 @@
 中级数据分析师-IT人员
 
+<link rel="stylesheet" href="./diy.css">
+
 ## 判断题
 
 1. Excel数据源指将数据文件导入到高速缓存库或关系数据源。 (1.0 分)
